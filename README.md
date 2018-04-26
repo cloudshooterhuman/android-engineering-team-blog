@@ -8,3 +8,4 @@
 - [ribot labs](https://labs.ribot.co.uk/).
 - [futurice blog](https://futurice.com/blog).
 - [The Deliveroo engineering team blog](https://deliveroo.engineering/).
+- [TripAdvisor engineering blog](http://engineering.tripadvisor.com/tag/mobile/).
