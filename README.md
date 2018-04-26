@@ -11,3 +11,4 @@
 - [TripAdvisor engineering blog](http://engineering.tripadvisor.com/tag/mobile/).
 - [trivago's Tech Blog](https://tech.trivago.com/).
 - [BlaBlaCar Tech Team](https://medium.com/blablacar-tech).
+- [Schibsted Tech Blog](http://bytes.schibsted.com/).
