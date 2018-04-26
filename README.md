@@ -9,3 +9,4 @@
 - [futurice blog](https://futurice.com/blog).
 - [The Deliveroo engineering team blog](https://deliveroo.engineering/).
 - [TripAdvisor engineering blog](http://engineering.tripadvisor.com/tag/mobile/).
+- [trivago's Tech Blog](https://tech.trivago.com/).
