@@ -7,3 +7,4 @@
 - [Big Nerd Ranch blog](https://www.bignerdranch.com/blog/categories/android/).
 - [ribot labs](https://labs.ribot.co.uk/).
 - [futurice blog](https://futurice.com/blog).
+- [The Deliveroo engineering team blog](https://deliveroo.engineering/).
