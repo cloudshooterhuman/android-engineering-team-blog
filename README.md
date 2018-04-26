@@ -1,2 +1,3 @@
-# best-android-technical-blogs
-# best-android-technical-blogs
+# Best Android Technical Blogs
+- [Kickstarter Engineering](https://kickstarter.engineering/).
+
