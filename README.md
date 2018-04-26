@@ -4,3 +4,4 @@
 - [Uber Engineering](https://eng.uber.com/category/mobile/).
 - [thedroidsonroids blog](https://www.thedroidsonroids.com/blog).
 - [Yelp Engineering blog](https://engineeringblog.yelp.com/).
+- [Big Nerd Ranch blog](https://www.bignerdranch.com/blog/categories/android/).
