@@ -15,3 +15,4 @@
 - [Babbel engineering Team](https://bytes.babbel.com/en/).
 - [Karumi Tech Blog](http://blog.karumi.com/).
 - [Lyft engineering](https://eng.lyft.com/).
+- [Netflix Tech Blog](https://medium.com/netflix-techblog).
