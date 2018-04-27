@@ -16,3 +16,4 @@
 - [Karumi Tech Blog](http://blog.karumi.com/).
 - [Lyft engineering](https://eng.lyft.com/).
 - [Netflix Tech Blog](https://medium.com/netflix-techblog).
+- [Zalando Tech Blog](https://jobs.zalando.com/tech/blog/?gh_src=4n3gxh1&main-categories=Technical+Articles&profession=Engineering+%26+Development).
