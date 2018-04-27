@@ -12,3 +12,4 @@
 - [trivago's Tech Blog](https://tech.trivago.com/).
 - [BlaBlaCar Tech Team](https://medium.com/blablacar-tech).
 - [Schibsted Tech Blog](http://bytes.schibsted.com/).
+- [Babbel engineering Team](https://bytes.babbel.com/en/).
