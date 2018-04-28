@@ -20,4 +20,5 @@
 - [Airbnb engineering](https://medium.com/airbnb-engineering/tagged/mobile).
 - [Trello Tech Blog](http://tech.trello.com/).
 - [47 Degrees Tech Blog](https://www.47deg.com/blog/).
+- [Shopify Engineering Blog](https://shopifyengineering.myshopify.com/blogs/engineering).
 
