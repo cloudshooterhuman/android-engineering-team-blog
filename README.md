@@ -21,4 +21,5 @@
 - [Trello Tech Blog](http://tech.trello.com/).
 - [47 Degrees Tech Blog](https://www.47deg.com/blog/).
 - [Shopify Engineering Blog](https://shopifyengineering.myshopify.com/blogs/engineering).
+- [Over Engineering](https://medium.com/over-engineering).
 
